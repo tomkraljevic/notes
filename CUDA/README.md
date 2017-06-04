@@ -48,6 +48,10 @@ Management and Performance APIs:
 * <https://developer.nvidia.com/nvidia-management-library-nvml>
 * <http://docs.nvidia.com/cuda/cupti/index.html>
 
+Unified Memory:
+
+* <https://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/>
+
 ---
 
 Idea for how to do predictions on the GPU:
